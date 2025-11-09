@@ -59,8 +59,4 @@ uvicorn src.api:app --reload
 ✅ Sign Language Detection (“hello”, “iloveyou”, “thankyou”)
 ✅ Interactive 3D UI
 
-```
 
----
-
-```
